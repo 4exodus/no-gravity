@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background: radial-gradient(circle, #0f2027, #203a43, #2c5364); /* Tema scuro dinamico */
+    font-family: 'Arial', sans-serif;
+}
+
+canvas {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
